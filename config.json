@@ -1,5 +1,5 @@
 {
-  "name": "Lecker Bierchen",
+  "name": "LeckerBierchen",
   "symbol": "LEBH",
   "description": "Für die wahren Bierconnaiseure",
   "image": "https://raw.githubusercontent.com/AemsuCode/logoCurrenycy/main/Leckerbierchen.png",
@@ -10,7 +10,7 @@
     ],
     "category": "image",
     "creators": [
-      { "address": "9XVCfDja7RRz7rz11p6ZdyGEiVM6rNt8AhfVrzqchXET", "share": 1000000, "verified": true }
+      { "address": "9XVCfDja7RRz7rz11p6ZdyGEiVM6rNt8AhfVrzqchXET", "share": 100, "verified": true }
     ]
   }
 }
